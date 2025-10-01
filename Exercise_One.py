@@ -6,7 +6,7 @@ num2 = float(input("Enter the second number: "))
 
 try:
     result = num1 / num2
-    round(result,1)
+    round(result,2)
     print(f"The result of {num1} ÷ {num2} is: {result}")
 except ZeroDivisionError:
     print("Error: You cannot divide by zero!")
