@@ -1,4 +1,4 @@
-# Python Error Handling Exercises
+Python Error Handling Exercises
 
 A set of practice exercises to build familiarity with Python's exception handling features.
 
